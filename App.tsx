@@ -281,7 +281,7 @@ export default function App() {
       {/* Top Nav */}
       <div style={{background:"#0f172a",padding:"0 20px",display:"flex",alignItems:"center",gap:16,height:48,flexShrink:0}}>
         <div style={{color:"white",fontWeight:800,fontSize:15,letterSpacing:0.5}}>
-          <span style={{color:"#3b82f6"}}>Liberate</span> Claims Platform
+          <span style={{color:"#3b82f6"}}>Claims Platform</span> 
         </div>
         <div style={{marginLeft:"auto",display:"flex",gap:4}}>
           {["policyholder","adjuster"].map(v=>(
